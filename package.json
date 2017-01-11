@@ -1,0 +1,18 @@
+{
+  "name": "commonplacebook",
+  "version": "0.0.1",
+  "description": "Quotes I've collected from books, podcasts, and talks",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Dirceu Pereira Tiegs <dirceutiegs@gmail.com>",
+  "dependencies": {
+    "lodash.shuffle": "~4.2.0",
+    "next": "^1.2.3"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
